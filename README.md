@@ -1,4 +1,4 @@
-# xCommand Cloud
+# xCommand
 
 xCommand Cloud is a short-term n8n workspace rental platform. It lets users launch an isolated n8n instance in the browser, complete checkout, and start building workflows without handling Docker, reverse proxies, SSL, or server setup themselves.
 
